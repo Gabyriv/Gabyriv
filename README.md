@@ -1,4 +1,4 @@
-## Hi ther# Hi there, I'm Gabriel Rivera! 👋
+## Hi there, I'm Gabriel Rivera! 👋
 
 I'm a **student** and **student tutor** at Holberton School, Puerto Rico, with a strong interest in **AI** and **Cybersecurity**. Currently, I’m on an exciting journey of deepening my knowledge in **Python** and working with **APIs** using **Flask**, alongside learning technologies like **SQL**, **HTML**, **CSS**, and **JavaScript**.
 
