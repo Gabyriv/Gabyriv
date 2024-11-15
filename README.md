@@ -54,7 +54,7 @@ Beyond coding, I have a passion for:
 
 Feel free to check out my repositories, or reach out if you're interested in collaboration or simply want to chat about tech, AI, or cybersecurity.
 
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/gabriel-rivera-1282a8336/)
 - [Email](mailto:gabyrivm06@gmail.com)
 
 ---
