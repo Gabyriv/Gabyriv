@@ -1,7 +1,6 @@
 ## Hi there, I'm Gabriel Rivera! 👋
 
-I'm a **student** and **student tutor** at Holberton School, Puerto Rico, with a strong interest in **AI** and **Cybersecurity**. Currently, I’m on an exciting journey of deepening my knowledge in **Python** and working with **APIs** using **Flask**, alongside learning technologies like **SQL**, **HTML**, **CSS**, and **JavaScript**.
-
+I'm a passionate software engineer **graduate** from Holberton School, with a strong focus on continuous learning and problem-solving. Proficient in **C**, **Python**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, **SQL**, and **Git**, I'm always eager to tackle new challenges and expand my knowledge.
 ---
 
 ### 🔧 **Technical Skills**
