@@ -6,24 +6,16 @@ I'm a **student** and **student tutor** at Holberton School, Puerto Rico, with a
 
 ### 🔧 **Technical Skills**
 
-- **Programming Languages**: C (base knowledge), Python (learning)
-- **Frameworks**: Flask
-- **Technologies**: SQL, HTML, CSS, JavaScript
+- **Programming Languages**: C (base knowledge), Python, JavaScript, TypeScript
+- **Frameworks**: Flask, NestJS
+- **Technologies**: SQL, HTML, CSS
 - **Tools**: Git, GitHub, Linux
 
 ---
 
 ### 📚 **Current Projects**
 
-I’m currently building an **AirBnB clone** as part of my learning process, which combines back-end development and web technologies. This project allows me to sharpen my skills in **web development** and **API design**.
-
----
-
-### 🚀 **Future Goals**
-
-In the future, I aim to create:
-- A **personal web portfolio** showcasing my projects and skills.
-- A **web application** that centralizes all the essential information I need when setting up new devices — something I wish I had now!
+I’m currently building an **VolleyBall Statistic Tracking app** as part of my learning process, which combines back-end development and web technologies. This project allows me to sharpen my skills in **web development** and **API design**.
 
 ---
 
@@ -54,7 +46,7 @@ Beyond coding, I have a passion for:
 
 Feel free to check out my repositories, or reach out if you're interested in collaboration or simply want to chat about tech, AI, or cybersecurity.
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-rivera-1282a8336/)
+- [LinkedIn](www.linkedin.com/in/gabyrivm)
 - [Email](mailto:gabyrivm06@gmail.com)
 
 ---
