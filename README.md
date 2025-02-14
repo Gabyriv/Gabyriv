@@ -1,6 +1,8 @@
 ## Hi there, I'm Gabriel Rivera! 👋
 
-I'm a passionate software engineer **graduate** from Holberton School, with a strong focus on continuous learning and problem-solving. Proficient in **C**, **Python**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, **SQL**, and **Git**, I'm always eager to tackle new challenges and expand my knowledge.
+I'm a passionate software engineer **graduate** from Holberton School, with a strong focus on continuous learning and problem-solving. Proficient in **C**, **Python**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, **SQL**, and **Git**, I'm always eager to tackle new challenges and 
+expand my knowledge.
+
 ---
 
 ### 🔧 **Technical Skills**
