@@ -45,7 +45,7 @@ Beyond coding, I have a passion for:
 
 ### 🤝 **Let's Connect!**
 
-Feel free to check out my repositories, or reach out if you're interested in collaboration or simply want to chat about tech, AI, or cybersecurity.
+Feel free to check out my repositories, or reach out if you're interested in collaboration or simply want to chat about tech.
 
 - [LinkedIn](www.linkedin.com/in/gabyrivm)
 - [Email](mailto:gabyrivm06@gmail.com)
